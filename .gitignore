@@ -2,3 +2,7 @@
 *.project
 /target
 *.MF
+/.settings
+/.classpath
+
+
