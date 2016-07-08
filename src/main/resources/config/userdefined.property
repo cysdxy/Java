@@ -1,0 +1,6 @@
+#国金涌富尽调预登录自定义处理器
+gjyfDDFPrelogin=org.guojin.cn.crawler.userdefinedhandler.GjyfDDFPreloginUserdefinedhandler
+#国金涌富尽调登录自定义处理器
+gjyfDDFLogin=org.guojin.cn.crawler.userdefinedhandler.GjyfDDFLoginUserdefinedhandler
+#国金涌富尽调内容自定义处理器
+gjyfDDFContent=org.guojin.cn.crawler.userdefinedhandler.GjyfDDFContentUserdefinedhandler
